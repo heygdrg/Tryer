@@ -27,6 +27,10 @@ More your internet connexion is faster faster will be the bot.
 </p>
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/94129991/194126903-1506b967-ec4a-4b96-8446-8ad446e25a0c.png", width="500", height="500">
+</p>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/94129991/194122778-2e0af82a-8559-4730-bb66-db4938f19352.png", width="500", height="500">
 </p>
 
