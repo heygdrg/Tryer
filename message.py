@@ -1,3 +1,8 @@
+#CODE BY BKS / RATTLER'S 
+#JOIN THE DISCORD FOR MORE TOOL 
+#DON'T FORGET TO HELP ME WITH SOME MONEY
+
+
 import base64
 from pystyle import *
 import os
