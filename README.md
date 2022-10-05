@@ -30,6 +30,12 @@ More your internet connexion is faster faster will be the bot.
 <img src="https://user-images.githubusercontent.com/94129991/194122778-2e0af82a-8559-4730-bb66-db4938f19352.png", width="500", height="500">
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94129991/194124280-c63eb258-bdfc-4a6e-a606-fb9068db8b26.png", width="500", height="500">
+</p>
+
+
+
 -----
 
 ### <p align="center">📀 Dependencies 📀</p>
