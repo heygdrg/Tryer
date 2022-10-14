@@ -11,6 +11,8 @@
 <br><br>
 <p align="center">
 <strong>
+Copyright Tekky 
+<br><br>
 Tryer is a simple wiew bot in Python3.
 <br><br>
 It still have bug but still wotking on it.
